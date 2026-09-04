@@ -1,6 +1,6 @@
 [package]
 name = "shadcn-dioxus"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2024"
 description = "Minimal scaffold crate for future shadcn-dioxus Dioxus component work."
 readme = "README.md"
