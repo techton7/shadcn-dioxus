@@ -1,0 +1,10 @@
+[package]
+name = "shadcn-dioxus"
+version = "0.1.0"
+edition = "2024"
+description = "Minimal scaffold crate for future shadcn-dioxus Dioxus component work."
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/techton7/shadcn-dioxus"
+
+[dependencies]
