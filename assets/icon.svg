@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="100%" height="100%">
+  <!-- 1. 긴 상단 바 (Dioxus Cyan Blue, 정방향 슬래시 '/') -->
+  <line 
+    x1="44" y1="212" 
+    x2="212" y2="44" 
+    stroke="#0EA5E9" 
+    stroke-width="28" 
+    stroke-linecap="round" 
+  />
+
+  <!-- 2. 짧은 하단 바 (Dioxus Rust Orange, 평행 슬래시 '/') -->
+  <line 
+    x1="126" y1="212" 
+    x2="212" y2="126" 
+    stroke="#F05624" 
+    stroke-width="28" 
+    stroke-linecap="round" 
+  />
+</svg>
