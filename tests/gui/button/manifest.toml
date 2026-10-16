@@ -1,0 +1,10 @@
+[[scenarios]]
+name = "button-variants"
+description = "Verify shadcn button visual styles across states"
+viewports = ["desktop"]
+
+[[scenarios.targets]]
+id = "button-primary"
+test_id = "button-primary"
+part = "button"
+state = "default"
