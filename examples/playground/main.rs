@@ -18,7 +18,8 @@ fn App() -> Element {
     rsx! {
         document::Link { rel: "stylesheet", href: asset!("/assets/tailwind.css") }
         div {
-            style: "min-height: 100vh; background-color: #f8fafc; padding: 2rem; display: flex; flex-direction: column; gap: 1.5rem; align-items: flex-start;",
+            font_family: "var(--font-sans), 'Pretendard', sans-serif;",
+            style: "min-height: 100vh; background-color: #f8fafc; padding: 2rem; display: flex; flex-direction: column; gap: 1.5rem; align-items: flex-start; font-family: var(--font-sans), 'Pretendard', sans-serif;",
             h1 {
                 style: "font-size: 1.5rem; font-weight: 700; color: #0f172a;",
                 "shadcn-dioxus Playground"
