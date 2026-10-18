@@ -1,0 +1,14 @@
+{
+  "artifact_id": {
+    "package": "shadcn-dioxus",
+    "scenario": "button-variants",
+    "target": "button-primary",
+    "host": "native",
+    "viewport": "desktop",
+    "state": "default"
+  },
+  "source_run_id": "run-20261018T190814Z",
+  "baseline_path": "tests/gui/button/baselines/button-variants/button-primary/native/desktop/default.png",
+  "source_actual_path": "test-results/gui/runs/run-20261018T190814Z/actual/shadcn-dioxus/button-variants/button-primary/native/desktop/default.png",
+  "approved_at": "2026-10-18T19:12:07.647603Z"
+}
