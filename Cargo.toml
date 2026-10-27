@@ -30,7 +30,7 @@ native = [
 blitz-dom = { version = "0.3.0-beta.2", git = "https://github.com/techton7/blitz.git", tag = "techton-main-v0.2.6", optional = true }
 blitz-test-harness = { version = "0.3.0-beta.2", git = "https://github.com/techton7/blitz.git", tag = "techton-main-v0.2.6", optional = true }
 dioxus-native-dom = { version = "0.7.0", git = "https://github.com/techton7/blitz.git", tag = "techton-main-v0.2.6", optional = true }
-oxidase = { version = "0.1.11", git = "https://github.com/techton7/oxidase.git", tag = "oxidase-v0.1.11", features = ["native"], optional = true }
+oxidase = { version = "0.2.0", git = "https://github.com/techton7/oxidase.git", tag = "oxidase-v0.2.1", features = ["native"], optional = true }
 dioxus-native = { version = "0.7.0", git = "https://github.com/techton7/blitz.git", tag = "techton-main-v0.2.6", optional = true }
 blitz-traits = { version = "0.3.0-beta.2", git = "https://github.com/techton7/blitz.git", tag = "techton-main-v0.2.6", optional = true }
 
